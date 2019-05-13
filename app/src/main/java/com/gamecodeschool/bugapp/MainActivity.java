@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity implements 	View.OnClickList
     // An int variable to hold a value
     private int value = 0;
 
-    // A bunch of Buttons and a TextView
+    // A bunch of Buttons and a TextView sdisudhisuhv
     private Button btnAdd;
     private Button btnTake;
     private TextView txtValue;
